@@ -9,6 +9,11 @@
 *.ilk
 *.dep
 *.user
+*.log
+*.tlog
+*.iobj
+*.ipdb
+*.recipe
 N64MidiTool/N64MidiTool/Debug/N64MidiTool.exe.embed.manifest
 N64MidiTool/N64MidiTool/Debug/N64MidiTool.exe.intermediate.manifest
 N64MidiTool/N64MidiTool/Release/N64MidiTool.exe.intermediate.manifest
